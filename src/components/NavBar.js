@@ -1,5 +1,6 @@
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
 import logo from '../components/logo.jpeg'
+import React, { Component }  from 'react';
 
 export default function Navbar() {
   return (

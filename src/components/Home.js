@@ -1,5 +1,6 @@
 import Rebar from '../components/Images/Rebar.jpg'
 import "./Home.css"
+import React, { Component }  from 'react';
 
 export default function Home() {
     return (

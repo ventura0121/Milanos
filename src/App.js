@@ -1,4 +1,4 @@
-import Navbar from "./components/Navbar"
+import Navbar from "./components/NavBar"
 import Home from "./components/Home"
 import About from "./components/About"
 import Contact from "./components/Contact"
@@ -6,6 +6,7 @@ import Projects from "./components/Projects"
 import Services from "./components/Services"
 import { Route, Routes } from "react-router-dom"
 import Footer from "./components/Footer"
+import React, { Component }  from 'react';
 
 function App() {
   return (
