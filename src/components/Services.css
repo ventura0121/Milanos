@@ -1,0 +1,10 @@
+.Services-text{
+    list-style-position: inside;
+    columns: 3;
+    text-align: left;
+
+}
+.Services-text ::marker{
+    color:rgb(177, 18, 18);
+
+}
