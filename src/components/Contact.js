@@ -1,5 +1,4 @@
 import Maps from "./Images/Maps.png"
-import "./Contact.css"
 export default function Contact() {
     return (
         <div className="Contact-container">

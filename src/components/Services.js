@@ -32,7 +32,7 @@ export default function Services() {
             </ul>
         </h2>
         <h2>See some of the company highlights below!</h2>
-        <div id="img-wrapper">
+        <div className="img-wrapper">
             <div><img src={Rebar} alt="Rebar.jpg" id="Rebar.jpg" /></div>
             <div><img src={CompactedSoil} alt="CompactedSoil.jpg" id="CompactedSoil.jpg" /></div>
             <div><img src={ConcretePour} alt="ConcretePour.jpg" id="ConcretePour.jpg" /></div>
