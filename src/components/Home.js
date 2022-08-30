@@ -1,4 +1,5 @@
 import Rebar from '../components/Images/Rebar.jpg'
+import "./Home.css"
 
 export default function Home() {
     return (
