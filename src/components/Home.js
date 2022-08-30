@@ -5,7 +5,9 @@ export default function Home() {
     return (
     <div className="welcome-container">
     <div className="welcome-img-container">
-      <img src={Rebar} alt="Rebar.jpg" id="Rebar.jpg" />
+        
+        {/* <div style ="background-image: url('../components/Images/Rebar.jpg');"></div> */}
+        {/* <img src={Rebar} alt="Rebar.jpg" id="Rebar.jpg" /> */}
     </div>
     <h2 className="welcome-text">
         Quality in Every Project
