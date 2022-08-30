@@ -12,8 +12,8 @@ export default function Contact() {
         <br />
         <br />Reach out for a Quote!
         <br />
-        <br />Tel (201) 615-2515
-        <br /> Email milanosmasonry@yahoo.com
+        <br />Tel: (201) 615-2515
+        <br /> Email: milanosmasonry@yahoo.com
     
 
         </h2>
