@@ -1,9 +1,10 @@
-
+import Maps from "./Images/Maps.png"
+import "./Contact.css"
 export default function Contact() {
     return (
         <div className="Contact-container">
         <div className="Contact-img-container">
-          {/* <img src={Rebar} alt="Rebar.jpg" id="Rebar.jpg" /> */}
+          <img src={Maps} alt="Maps.jpg" id="Maps.jpg" />
         </div>
         <h2 className="Contact-text">
 

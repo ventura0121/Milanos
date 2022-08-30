@@ -9,10 +9,28 @@
   width: auto;
 }
 
-h2.welcome-text {
-  font-size: 50px;
+.Slogan {
+  font-size: 35px;
   color: black;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px #d8d5d5;
+  
+}
+
+.Milano {
+  font-size: 70px;
+  outline: black;
+  color: red;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px #d8d5d5;
+  margin-bottom: 0%;
+}
+
+.welcome-text {
+  font-size: 15px;
+  color: black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px #d8d5d5;
 }
 
 @media (min-width: 468px) {
