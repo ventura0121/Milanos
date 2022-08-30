@@ -7,10 +7,10 @@ export default function Navbar() {
       <Link to="/" className="site-title">
         <img src={logo} style = {{height: 120, width: 120}} alt="website logo"/>
       </Link>
-      <ul>
+      <ul><CustomLink to="/">Home</CustomLink>
         <CustomLink to="/Services">Services</CustomLink>
-        <CustomLink to="/About">About</CustomLink>
         <CustomLink to="/Projects">Projects</CustomLink>
+        <CustomLink to="/About">About</CustomLink>
         <CustomLink to="/Contact">Contact</CustomLink>
       </ul>
     </nav>

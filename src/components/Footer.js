@@ -6,9 +6,8 @@ export default function Footer() {
                 498 Marion Ln. <br />
                 Paramus, NJ 07652 <br />
                 (201) 615-2515 <br />
-                copyright {new Date().getFullYear()}
             </p> 
-            
+            <p className="copyright footer">© {new Date().getFullYear()} Osuna LLC</p>
         </footer>
     )
 

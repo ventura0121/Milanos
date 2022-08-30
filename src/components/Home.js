@@ -1,3 +1,15 @@
+import Rebar from '../components/Images/Rebar.jpg'
+
 export default function Home() {
-    return <h1>Home</h1>
-  }
+    return (
+    <div className="welcome-container">
+    <div className="welcome-img-container">
+      <img src={Rebar} alt="Rebar.jpg" id="Rebar.jpg" />
+    </div>
+    <h2 className="welcome-text">
+        Quality in Every Project
+    <br /> Paramus | New Jersey
+    </h2>
+  </div>
+);
+}
