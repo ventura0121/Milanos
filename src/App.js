@@ -1,41 +1,28 @@
-import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles'
-import './App.css';
-import CreateButton from './components/Button'
-import NavBar from './components/NavBar';
-
-const theme = createMuiTheme({
-  palette: {
-    primary: {
-      main:"#2e1667",
-    },
-    secondary: {
-      main:"#c7d8ed",
-    },
-  },
-  typography: {
-    fontFamily: [
-      'Roboto'
-    ],
-    h4: {
-      fontWeight: 600,
-      fontSize: 28,
-      lineHeight: '2rem',
-      },
-    h5: {
-      fontWeight: 100,
-      lineHeight: '2rem',
-    },
-  },
-});
+import Navbar from "./components/Navbar"
+import Home from "./components/Home"
+import About from "./components/About"
+import Contact from "./components/Contact"
+import Projects from "./components/Projects"
+import Services from "./components/Services"
+import { Route, Routes } from "react-router-dom"
+import Footer from "./components/Footer"
 
 function App() {
   return (
-  <div className="App">
-    <ThemeProvider theme={theme}>
-      <NavBar/>
-    </ThemeProvider>
-  </div>
-  );
+    <>
+      <Navbar />
+      <div className="container">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/Services" element={<Services />} />
+          <Route path="/About" element={<About />} />
+          <Route path="/Projects" element={<Projects />} />
+          <Route path="/Contact" element={<Contact />} />
+        </Routes>
+        <Footer />
+      </div>
+    </>
+  )
 }
 
-export default App;
+export default App
