@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+
 export default function Services() {
     return (
         <div className="Services-container">
@@ -21,7 +21,8 @@ export default function Services() {
             <li>Excavation</li>
             <li>Demolition</li>
             </ul>
-           
+
+            
         </h2>
 
       </div>

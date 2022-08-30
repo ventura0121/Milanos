@@ -3,12 +3,15 @@
 }
 
 body {
-  margin: auto;
+  margin: 2px;
+  background-color: #efefef;
 }
 
 .container {
   margin: 1rem;
   text-align: center;
+  background-color: white;
+  padding-top: 0.1px;
 }
 
 .nav {
@@ -16,13 +19,7 @@ body {
   color: white;
   display: flex;
   justify-content: space-between;
-  align-items: stretch;
-  gap: 2rem;
   padding: 0 1rem;
-}
-
-.site-title {
-  font-size: 2rem;
 }
 
 .nav ul {
@@ -30,8 +27,8 @@ body {
   margin: 0;
   list-style: none;
   display: flex;
-  gap: 1rem;
-  font-size: 60px;
+  gap: 15rem;
+  font-size: 35px;
 }
 
 .nav a {

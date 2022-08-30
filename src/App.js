@@ -6,7 +6,6 @@ import Projects from "./components/Projects"
 import Services from "./components/Services"
 import { Route, Routes } from "react-router-dom"
 import Footer from "./components/Footer"
-import React, { Component }  from 'react';
 
 function App() {
   return (
