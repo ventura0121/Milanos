@@ -7,7 +7,7 @@ export default function Footer() {
                 Paramus, NJ 07652 <br />
                 (201) 615-2515 <br />
             </p> 
-            <p className="copyright footer">© {new Date().getFullYear()} Osuna LLC</p>
+            <p className="copyright footer">© {new Date().getFullYear()} OsunaDesigns LLC</p>
         </footer>
     )
 

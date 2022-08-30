@@ -6,12 +6,13 @@ export default function Navbar() {
     <nav className="nav">
       <Link to="/" className="site-title">
         <img src={logo} style = {{height: 120, width: 120}} alt="website logo"/>
+        {/* <div>Milano's Masonry</div> */}
       </Link>
       <ul><CustomLink to="/">Home</CustomLink>
         <CustomLink to="/Services">Services</CustomLink>
         <CustomLink to="/Projects">Projects</CustomLink>
         <CustomLink to="/About">About</CustomLink>
-        <CustomLink to="/Contact">Contact</CustomLink>
+        <CustomLink to="/Contact">Contact Us</CustomLink>
       </ul>
     </nav>
   )
