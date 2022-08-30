@@ -2,9 +2,20 @@
     list-style-position: inside;
     columns: 3;
     text-align: left;
-
 }
 .Services-text ::marker{
     color:rgb(177, 18, 18);
+}
 
+#img-wrapper {
+    width: 1px;
+    height: 1px;
+    display: grid;
+    grid-template-columns: repeat(4, 1);
+    grid-row-gap: 10px;
+}
+
+img#img-wrapper {
+    width: 200px;
+    height: 200px;
 }
