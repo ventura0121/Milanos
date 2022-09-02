@@ -1,0 +1,40 @@
+
+.welcome-img-container {
+  margin-top: 2rem;  margin-bottom: .5rem;
+  background-image: url("../components/Images/Fill.jpg");
+  background-repeat: no-repeat ;
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  width: auto;
+}
+
+.Slogan {
+  font-size: 35px;
+  color: black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px #d8d5d5;
+  
+}
+
+.Milano {
+  font-size: 70px;
+  outline: black;
+  color: red;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px #d8d5d5;
+  margin-bottom: 0%;
+}
+
+.welcome-text {
+  font-size: 15px;
+  color: black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px #d8d5d5;
+}
+
+@media (min-width: 468px) {
+  .img-container > img {
+    margin-top: -375px;
+  }
+}

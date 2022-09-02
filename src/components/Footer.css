@@ -1,0 +1,30 @@
+footer {
+    background-color: #333;
+    color: white;
+    font-weight: 150;
+    padding-bottom: .5rem;
+    padding-top: .5rem;
+    text-align: center;
+    font-family: serif;
+  }
+  
+  p.footer {
+    letter-spacing: .15rem;
+    line-height: 1.20;
+    font-size: larger;
+  }
+  
+  h3.footer {
+    font-weight: 700;
+    letter-spacing: .1rem;
+    text-transform: uppercase; 
+    font-size: large;
+  }
+  
+  p.copyright{
+    font-size: .80rem;
+    margin-top: 2rem auto;
+    pad: 0;
+  }
+
+  

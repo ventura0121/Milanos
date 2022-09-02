@@ -1,0 +1,26 @@
+.Services-text{
+    list-style-position: inside;
+    columns: 3;
+    text-align: left;
+    background-color: #f3f3f3;
+    border-radius: 2rem;
+}
+.Services-text ::marker{
+    color:rgb(177, 18, 18);
+}
+
+.img-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 10px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-radius: 2rem;
+    border: 1px solid #777;
+    box-shadow: 200px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
+}
+
