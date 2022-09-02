@@ -1,7 +1,9 @@
 .Services-text{
     list-style-position: inside;
     columns: 3;
-    text-align: center;
+    text-align: left;
+    background-color: #f3f3f3;
+    border-radius: 2rem;
 }
 .Services-text ::marker{
     color:rgb(177, 18, 18);
