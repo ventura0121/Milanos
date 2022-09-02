@@ -2,35 +2,35 @@
 The project being built will consist of a family masonry website. The website will be used as a tool for potential clients to obtain general company information and contact information to reach out if interested in future business.
 
 ### Technologies Used
-Git and Netlify were used to commit and host the website. React and Tailwind was used to build and style the website.
-### React component hierarchy (if applicable)
-![Capture](https://media.git.generalassemb.ly/user/43697/files/234e1f70-0d0b-4be1-882d-8afb2c3d4572)
+Git and Netlify were used to commit and host the website. React and bootstrap was used to build and style the website.
+### React component hierarchy
+![Masonry Website (2)](https://user-images.githubusercontent.com/18333562/188066840-dc474a7b-494c-4978-bcbe-98d0d081bb53.png)
+
 
 ### User stories
-As a user, I want to see an aesthetically pleasing user interface
-As a user, I want to see what type of work this contractor has experience with
-As a user, I want to see images of the work this contractor has completed
-As a user, I want to see contact information on how to obtain a quote for potential work
+As a user, I want to see an aesthetically pleasing user interface <br />
+As a user, I want to see what type of work this contractor has experience with <br />
+As a user, I want to see images of the work this contractor has completed <br />
+As a user, I want to see contact information on how to obtain a quote for potential work <br />
 
 ### Wireframes
-![1](https://media.git.generalassemb.ly/user/43697/files/e698c4c9-119b-4a54-b04b-2353ab755c72)
-![2](https://media.git.generalassemb.ly/user/43697/files/e4c244d4-97cf-4cbb-98fa-76f599a1af1d)
-![3](https://media.git.generalassemb.ly/user/43697/files/031a4a4a-2c1c-4ea3-9152-c67f8e446af4)
-![4](https://media.git.generalassemb.ly/user/43697/files/8a95fff0-f7b5-43b9-b8c4-dfd398b5a623)
-![5](https://media.git.generalassemb.ly/user/43697/files/32945f99-5332-45cc-8e30-5bdebc8916bb)
-![6](https://media.git.generalassemb.ly/user/43697/files/1cd58e0c-d24d-4de3-8601-d30547b76134)
-![7](https://media.git.generalassemb.ly/user/43697/files/fc8963fd-d6cb-434c-b463-f33aac409bcc)
-![8](https://media.git.generalassemb.ly/user/43697/files/f3b5a987-3a28-43f0-835c-7374d3295c8b)
-![9](https://media.git.generalassemb.ly/user/43697/files/3d44e202-4970-48f7-8522-b676ec5076e0)
-![10](https://media.git.generalassemb.ly/user/43697/files/eaeb13dd-f469-4875-9c02-9c616e1ab7c1)
+
+![1](https://user-images.githubusercontent.com/18333562/187387858-8120d978-839f-43e3-9682-e4e7e43d3a84.png)
+![2](https://user-images.githubusercontent.com/18333562/187387856-53bc34f9-af40-43e1-a93e-f1bde72b1f93.png)
+![3](https://user-images.githubusercontent.com/18333562/187387855-e0ef1286-2d54-4325-8d81-405d36b22b65.png)
+![4](https://user-images.githubusercontent.com/18333562/187387854-4e6a4da3-3734-4ee5-9138-c6433701b6e9.png)
+![5](https://user-images.githubusercontent.com/18333562/187387853-967eec1c-7347-4439-a7db-5a70fa294837.png)
+![6](https://user-images.githubusercontent.com/18333562/187387851-df8ec4cc-502c-4ef3-ba25-87fee5e72c56.png)
+![7](https://user-images.githubusercontent.com/18333562/187387849-7521e41a-71d3-482e-a22b-1d4909e55377.png)
+![8](https://user-images.githubusercontent.com/18333562/187387847-6cc029a9-2777-4ebf-ae13-a5d7c0436683.png)
 
 ### MVP GOAL 
-Have a functioning website using REACT and TailWind.
-Be Deployed Online
-Use a technology that was not used in class (TailWind)
+Have a functioning website using REACT and bootstrap <br />
+Be Deployed Online <br />
+Use a technology that was not used in class (bootstrap)<br />
 
 ### Stretch GOALS
-Have client provide professional pictures to incorporate
-Have a link to redirect to leave reviews
+Have client provide professional pictures to incorporate <br />
+Have a link to redirect to leave reviews <br />
 
 
