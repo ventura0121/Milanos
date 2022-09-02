@@ -8,10 +8,11 @@ body {
 }
 
 .container {
-  margin: 1rem;
+  margin: auto;
   text-align: center;
   background-color: white;
   padding-top: 0.1px;
+  
 }
 
 .nav {
