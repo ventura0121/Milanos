@@ -19,9 +19,9 @@ export default function Forms() {
           <Form.Control type="email" 
                         placeholder="Enter your email address" />
         </Form.Group>
-        <Form.Group class="input-group-lg">
+        <Form.Group className="input-group-lg">
           <Form.Label>Inquiry:</Form.Label>
-          <Form.Control class="form-control input-lg" type="text" placeholder="Enter your inquiry" />
+          <Form.Control className="form-control input-lg" type="text" placeholder="Enter your inquiry here" />
         </Form.Group>
         <Button variant="primary" type="submit">
            Click here to submit form
