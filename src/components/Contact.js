@@ -1,3 +1,6 @@
+
+
+import Forms from "./Form";
 import Maps from "./Images/Maps.png"
 export default function Contact() {
     return (
@@ -11,7 +14,8 @@ export default function Contact() {
         <br />Paramus, NJ 07652  
         <br />
         <br />Reach out for a Quote!
-        <br />
+        <Forms />
+        <br /> Contact info:
         <br />Tel: (201) 615-2515
         <br /> Email: milanosmasonry@yahoo.com
     

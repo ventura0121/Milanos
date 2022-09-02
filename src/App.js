@@ -6,6 +6,8 @@ import Projects from "./components/Projects"
 import Services from "./components/Services"
 import { Route, Routes } from "react-router-dom"
 import Footer from "./components/Footer"
+import Button from "react-bootstrap/Button";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
